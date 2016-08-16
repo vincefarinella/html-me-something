@@ -1,6 +1,6 @@
 p  {
-
    font-size: 16px;
+   padding-left: 20px
 }
 img {
   border: 1px solid #4682b4;
@@ -14,4 +14,10 @@ main {
 }
 h1{
   text-align: center;
+}
+#title {
+  background-color: blue;
+}
+.mainbody{
+  background-color: green;
 }
